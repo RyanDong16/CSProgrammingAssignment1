@@ -12,6 +12,7 @@
 
 
 # File Structure
+```bash
 a1/
 ├── bots.cpp
 ├── bots.exe
@@ -19,7 +20,8 @@ a1/
 ├── main.cpp
 ├── make
 ├── QUOTE.txt
-└── README.md
+└──README.md
+```
 
 # Compile Instructions
  g++ main.cpp bots.cpp -o bots.exe -pthread
