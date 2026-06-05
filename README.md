@@ -42,7 +42,7 @@ a1/
 
 
 # List/ description of all known deficiencies or bugs
-- no known deficiencies or bugs are known
+- no known deficiencies or bugs are present
 
 
 # Lessons Learned
